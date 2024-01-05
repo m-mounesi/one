@@ -1,3 +1,3 @@
 # This is my heading
 *this is italic*
-__this is bold__
+`this is code`
